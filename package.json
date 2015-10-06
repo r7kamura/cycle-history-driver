@@ -1,6 +1,6 @@
 {
   "name": "@r7kamura/cycle-history-driver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Cycle.js Driver to manage the browser history.",
   "repository": "https://github.com/r7kamura/cycle-history-driver",
   "main": "lib/index.js",
