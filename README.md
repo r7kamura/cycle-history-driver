@@ -9,6 +9,7 @@ npm install @r7kamura/cycle-history-driver
 ## Usage
 ```js
 import Cycle from '@cycle/core';
+import { makeDOMDriver } from '@cycle/dom'
 import { makeHistoryDriver } from '@r7kamura/cycle-history-driver';
 
 Cycle.run(
